@@ -284,6 +284,11 @@ button:focus {
   color: #cd5ff8;
 }
 
+.main-logo-bk{
+  font-size: 30px;
+  color: #cd5ff8;
+}
+
 .Typewriter__wrapper {
   font-size: 2.2em !important;
   color: #be6adf !important;
